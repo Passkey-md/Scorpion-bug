@@ -12,8 +12,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "🕳️ Phantom+Hacker 🕳️"
+global.ownernomer = "923107552846"
+global.ownername = "🕳️ ZAIBIxHacker"
 global.ytname = "YT: Phantom-hacks01"
 global.socialm = "GitHub: Passkey-md"
 global.location = "India, Mizoram, Aizawl"
